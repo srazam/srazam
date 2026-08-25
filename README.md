@@ -1,7 +1,3 @@
-## Hi there!👋 My name is Sofia Azam 😄
+## Hi there - my name is Sofia Azam!
 
-I graduated from East Carolina University with my Bachelors of Science in Computer Science and Mathematics. I will be starting my MS in Data Science, following the track in Applications of Physical, Biological, and Health Sciences, in Fall 2026 at UNC Chapel Hill. I love working with data and am passionate about using technology to positively impact communities and people. I am pursuing a career in healthcare data analytics to continue this passion.
-
-- 🌸 How to reach me: srazam@outlook.com
-- 🌸 Pronouns: she/her
-- 🌸 Fun fact: My favorite color is pink
+I am a graduate student at UNC Chapel Hill pursuing my Master's in Data Science, hoping to follow the Applications in Physical, Biological, and Health Sciences track. I am an East Carolina University alumni where I received my Bachelors of Science in Computer Science and Mathematics. I love working with data and am passionate about using technology to positively impact communities and people, in which I am currently pursuing a career in healthcare data analytics to continue this passion.
